@@ -1,0 +1,19 @@
+* {
+    font-family:'Montserrat';
+}
+#title {
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Montserrat';
+    color: #0e2f02;
+    margin-top: 2rem;
+    z-index: 500;
+    font-style: none;
+    -webkit-box-reflect: below 1px linear-gradient(transparent, #0004);
+}
+body {
+    background-color: #e4ede1;
+    align-items: center;
+    justify-content: center;
+
+}
